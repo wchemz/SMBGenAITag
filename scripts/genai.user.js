@@ -289,6 +289,12 @@ var customerJourneyMaps = [{
 }, {
     title: "GenAI POC",
     tag: ["#genai-poc"],
+},{
+    title: "Demo Squad",
+    tag: ["#smb-demo-squad"],
+},{
+    title: "TRP",
+    tag: ["~TRP~"],
 }];
 !function () {
     __awaiter(this, void 0, void 0, (function () {
